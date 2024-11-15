@@ -1,0 +1,3 @@
+/Users/sutommy/ClionProjects_2/singleTon/cmake-build-debug/CMakeFiles/singleTon.dir
+/Users/sutommy/ClionProjects_2/singleTon/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sutommy/ClionProjects_2/singleTon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
